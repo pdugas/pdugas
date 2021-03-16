@@ -4,8 +4,8 @@ I'm a C++/Linux guy going way back but my coding background is sort of all over 
 C/C++, PHP, Perl, Python, Javascript, SQL, Bash, etc. not to mention the ancient Lisp, Pascal,
 Fortran, Basic and even RPG in my way-back!
 
-I'm currently working on an in-house project using Symfony/PostgreSQL/TimescaleDB for
-the backend and an SPA frontend using ExtJS/GoogleMaps/Cytoscape/Visavail. It has full CI/CD
+I'm currently working on an in-house project with Symfony/PostgreSQL/TimescaleDB for
+the backend and an SPA frontend in ExtJS/GoogleMaps/Cytoscape/Visavail. I have full CI/CD
 for testing and building container images then deploying with Terraform to local VMware/Docker
 platforms for staging/testing and AWS for production. The whole stack is me alone.
 
